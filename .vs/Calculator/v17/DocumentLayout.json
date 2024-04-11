@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\views\\historywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\historywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\viewmodels\\helpers\\textbox_onlynumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\viewmodels\\helpers\\textbox_onlynumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\viewmodels\\percentagecalculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\viewmodels\\percentagecalculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\models\\percentagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\models\\percentagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\views\\percentagecalculatorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\percentagecalculatorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\views\\percentagecalculatorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\percentagecalculatorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\viewmodels\\helpers\\bindablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\viewmodels\\helpers\\bindablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\viewmodels\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\viewmodels\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\viewmodels\\historyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\viewmodels\\historyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|e:\\lessons\\\u043F\\c# (\u0441\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0441\u043E\u0444\u0438\u044F \u0430\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\calculator_mvvm_wpf\\calculator\\calculator\\views\\historywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B74AC2-F038-40D5-941A-BB1FDF66D323}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\historywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HistoryWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Views\\HistoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\Views\\HistoryWindow.xaml.cs",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Views\\HistoryWindow.xaml.cs",
+              "RelativeToolTip": "Calculator\\Views\\HistoryWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:53:43.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HistoryViewModel.cs",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\ViewModels\\HistoryViewModel.cs",
+              "RelativeDocumentMoniker": "Calculator\\ViewModels\\HistoryViewModel.cs",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\ViewModels\\HistoryViewModel.cs",
+              "RelativeToolTip": "Calculator\\ViewModels\\HistoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:53:41.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalculatorViewModel.cs",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\ViewModels\\CalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "Calculator\\ViewModels\\CalculatorViewModel.cs",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\ViewModels\\CalculatorViewModel.cs",
+              "RelativeToolTip": "Calculator\\ViewModels\\CalculatorViewModel.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAUwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:53:41.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BindableCommand.cs",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\ViewModels\\Helpers\\BindableCommand.cs",
+              "RelativeDocumentMoniker": "Calculator\\ViewModels\\Helpers\\BindableCommand.cs",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\ViewModels\\Helpers\\BindableCommand.cs",
+              "RelativeToolTip": "Calculator\\ViewModels\\Helpers\\BindableCommand.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:53:28.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Calculator\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:46:19.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PercentageCalculatorWindow.xaml",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Views\\PercentageCalculatorWindow.xaml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\PercentageCalculatorWindow.xaml",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Views\\PercentageCalculatorWindow.xaml",
+              "RelativeToolTip": "Calculator\\Views\\PercentageCalculatorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T02:45:12.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\MainWindow.xaml",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Calculator\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T02:44:56.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoryWindow.xaml",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Views\\HistoryWindow.xaml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\HistoryWindow.xaml",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Views\\HistoryWindow.xaml",
+              "RelativeToolTip": "Calculator\\Views\\HistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T02:44:48.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextBox_OnlyNumbers.cs",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\ViewModels\\Helpers\\TextBox_OnlyNumbers.cs",
+              "RelativeDocumentMoniker": "Calculator\\ViewModels\\Helpers\\TextBox_OnlyNumbers.cs",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\ViewModels\\Helpers\\TextBox_OnlyNumbers.cs",
+              "RelativeToolTip": "Calculator\\ViewModels\\Helpers\\TextBox_OnlyNumbers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:43:00.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PercentageCalculatorWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Views\\PercentageCalculatorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\Views\\PercentageCalculatorWindow.xaml.cs",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Views\\PercentageCalculatorWindow.xaml.cs",
+              "RelativeToolTip": "Calculator\\Views\\PercentageCalculatorWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:41:04.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorModel.cs",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Models\\CalculatorModel.cs",
+              "RelativeDocumentMoniker": "Calculator\\Models\\CalculatorModel.cs",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Models\\CalculatorModel.cs",
+              "RelativeToolTip": "Calculator\\Models\\CalculatorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:32:26.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PercentageModel.cs",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Models\\PercentageModel.cs",
+              "RelativeDocumentMoniker": "Calculator\\Models\\PercentageModel.cs",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\Models\\PercentageModel.cs",
+              "RelativeToolTip": "Calculator\\Models\\PercentageModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:32:22.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PercentageCalculatorViewModel.cs",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\ViewModels\\PercentageCalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "Calculator\\ViewModels\\PercentageCalculatorViewModel.cs",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\ViewModels\\PercentageCalculatorViewModel.cs",
+              "RelativeToolTip": "Calculator\\ViewModels\\PercentageCalculatorViewModel.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:31:11.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\App.xaml",
+              "RelativeDocumentMoniker": "Calculator\\App.xaml",
+              "ToolTip": "E:\\Lessons\\\u041F\\C# (\u0421\u043A\u043E\u0440\u043E\u0433\u0443\u0434\u0430\u0435\u0432\u0430 \u0421\u043E\u0444\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432\u043D\u0430)\\1. \u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\4\\Calculator_MVVM_WPF\\Calculator\\Calculator\\App.xaml",
+              "RelativeToolTip": "Calculator\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T02:09:44.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
